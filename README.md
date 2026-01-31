@@ -24,4 +24,5 @@ Before running the tests, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GIT_REPOSITORY_LINK_HERE>
+[   git clone <YOUR_GIT_REPOSITORY_LINK_HERE>
+](https://github.com/Oshadi15/ITPM-Assignment01.git)
