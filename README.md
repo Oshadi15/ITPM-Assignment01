@@ -1,7 +1,5 @@
 # ITPM-Assignment01
 
-# Playwright Automation Suite - SwiftTranslator (Singlish to Sinhala)
-
 This repository contains the automated functional and UI test suite for the [SwiftTranslator](https://www.swifttranslator.com/) application. This project was completed as an individual assessment for the **IT3040 - ITPM Assignment 1**.
 
 ## Project Objective
